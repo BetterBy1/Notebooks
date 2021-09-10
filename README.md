@@ -1,4 +1,4 @@
 # Notebooks
 Python library notebooks
-### for viewing ipynb notebooks
+### For viewing ipynb notebooks
 https://nbviewer.jupyter.org/ 
